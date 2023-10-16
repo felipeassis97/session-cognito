@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {}
+  },
+  "searsenv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-searsprojecttest-searsenv-142803-authRole",
+      "UnauthRoleArn": "arn:aws:iam::375561093694:role/amplify-searsprojecttest-searsenv-142803-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::375561093694:role/amplify-searsprojecttest-searsenv-142803-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-searsprojecttest-searsenv-142803-deployment",
+      "UnauthRoleName": "amplify-searsprojecttest-searsenv-142803-unauthRole",
+      "StackName": "amplify-searsprojecttest-searsenv-142803",
+      "StackId": "arn:aws:cloudformation:us-east-1:375561093694:stack/amplify-searsprojecttest-searsenv-142803/09677a80-6ab7-11ee-a8ee-0eda9f25f0db",
+      "AmplifyAppId": "dnomlaz653z3h"
+    },
+    "categories": {
+      "auth": {
+        "searsprojecttest6c169419": {}
+      }
+    }
+  }
+}

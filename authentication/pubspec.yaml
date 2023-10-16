@@ -1,0 +1,20 @@
+name: authentication
+description: A new Flutter package project.
+version: 0.0.1
+piblish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  amplify_flutter: ^1.4.1
+  amplify_auth_cognito: ^1.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
